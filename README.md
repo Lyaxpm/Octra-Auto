@@ -6,7 +6,7 @@ Clone the repository:
 
 ```bash
 git clone https://github.com/Lyaxpm/Octra-Auto
-cd Octra-Autk
+cd Octra-Auto
 ```
 Edit wallet.json paste your address and private key 
 ```bash
