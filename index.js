@@ -6,7 +6,7 @@ const bs58 = require('bs58');
 const crypto = require('crypto');
 
 const CONFIG = {
-  amountPerTx: 0.1,
+  amountPerTx: 0.01,
   delayBetweenTxMs: 3000,
   intervalBetweenBatchMs: 24 * 60 * 60 * 1000,
   walletFile: './wallet.json',
